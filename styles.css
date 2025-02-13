@@ -1,0 +1,19 @@
+.cartBlock {
+    background-color: silver;
+    width: 400px;
+
+    
+    
+    }
+    .container{
+        margin: 0;
+    }
+    .header{
+        display: flex;
+        background-color: pink;
+        justify-content: space-between;
+    }
+    .productBlock{
+        background-color: orange;
+    }
+
